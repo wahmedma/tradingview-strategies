@@ -1,3 +1,3 @@
 # tradingview-strategies
 
-Collecting some ttrading view strategies : ) 
+Collecting some trading view strategies : ) 
